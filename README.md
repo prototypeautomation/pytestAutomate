@@ -1,4 +1,4 @@
-# 📱 Mobile dan Website Automation Testing with Selenium, Appium & Pytest
+# 📱 Mobile and Website Automation Testing with Selenium, Appium & Pytest
 
 Proyek ini adalah script automation test untuk aplikasi Android eWork menggunakan **Appium v2**, **Selenium**, dan **Pytest**. Tes ini untuk menguji alur pendaftaran pelanggan baru pada aplikasi mobile.
 
