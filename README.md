@@ -52,7 +52,7 @@ jika sudah aktif adb nya, lalu jalankan perintah berikut :
 ANDROID_HOME=$HOME/Library/Android/sdk ANDROID_SDK_ROOT=$HOME/Library/Android/sdk appium
 ```
 
-### 4. Install aplikasi via adb installer
+### 5. Install aplikasi via adb installer
 
 ```bash
 cd pytestAutomate
@@ -61,7 +61,7 @@ adb install ework 1.20.5.apk
 
 catatan : device android harus sudah terkoneksi dengan laptop sebagai USB Debugging.
 
-### 5. Cara Menjalankan Tes
+### 6. Cara Menjalankan Tes
 
 1. Pastikan Appium Server v2 sudah berjalan di port default 4723.
 2. Hubungkan real device atau emulator Android.
@@ -79,7 +79,7 @@ cd website
 pytest -s -v websiteAutomation.py
 ```
 
-### 5. Mengatur Test suites atau urutan schenario test
+### 7. Mengatur Test suites atau urutan schenario test
 
 1. Buka Folder website/mobile
 2. Buka File conftest.py
